@@ -17,7 +17,9 @@ access logs). The implementation is based on
 
 ## Installation
 ```sh
-pip install nginx-error-log
+git clone git@github.com:MyMusicTaste/nparser.git
+cd nparser
+pip install -e .
 ```
 
 
