@@ -16,7 +16,7 @@ extras_require = \
 {'dev': ['black'], 'test': ['pytest', 'pytest-raises']}
 
 setup(name='nparser',
-      version='0.1.0',
+      version='0.1.1',
       description='Nginx error log parser.',
       author='Jin Nguyen',
       author_email='dangtrinhnt@mymusictaste.com',
