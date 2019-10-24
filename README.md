@@ -1,4 +1,4 @@
-# nginx-error-log
+# nparser
 Nginx error log parser.
 
 [![License](https://img.shields.io/pypi/l/nginx-error-log.svg)](https://github.com/madsmtm/nginx-error-log/blob/master/LICENSE.txt)
