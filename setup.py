@@ -8,7 +8,7 @@ package_data = \
 {'': ['*']}
 
 install_requires = []
-if sys.version_info[0] < 3 and sys.version_info[1] < 7:
+if sys.version_info[0] == 3 and sys.version_info[1] < 7:
     install_requires = ['dataclasses']
 
 extras_require = \
