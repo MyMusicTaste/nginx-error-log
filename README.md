@@ -6,6 +6,7 @@ This project provides a clean parsing of nginx error logs, produced by the
 access logs). The implementation is based on
 [this](https://stackoverflow.com/a/26125951) stackoverflow answer.
 
+You can use this to parse Kong's logs.
 
 ## Installation
 ```sh
